@@ -1,6 +1,20 @@
 #EXTM3U x-tvg-url="https://epg.zbds.top"
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="https://epg.zbds.top",CCTV1
+ http://171.118.76.58:9003/hls/1/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="https://epg.zbds.top",CCTV1
  http://221.205.204.69:9003/hls/1/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="https://epg.zbds.top",CCTV1
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="https://epg.zbds.top",CCTV1
+ http://183.184.49.207:9003/hls/1/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="https://epg.zbds.top",CCTV1
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="https://epg.zbds.top",CCTV1
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225723/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="https://epg.zbds.top",CCTV1
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="https://epg.zbds.top",CCTV1
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225770/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="https://epg.zbds.top",CCTV1
  http://125.43.246.253:85/tsfile/live/0001_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="https://epg.zbds.top",CCTV1
@@ -19,6 +33,14 @@
  http://221.205.204.69:9003/hls/2/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV3" tvg-logo="https://livecdn.zbds.org/logo/CCTV3.png" epg-url="https://epg.zbds.top",CCTV3
  http://221.205.204.69:9003/hls/3/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV3" tvg-logo="https://livecdn.zbds.org/logo/CCTV3.png" epg-url="https://epg.zbds.top",CCTV3
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226165/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV3" tvg-logo="https://livecdn.zbds.org/logo/CCTV3.png" epg-url="https://epg.zbds.top",CCTV3
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225766/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV3" tvg-logo="https://livecdn.zbds.org/logo/CCTV3.png" epg-url="https://epg.zbds.top",CCTV3
+ http://125.118.85.231:4022/udp/233.50.200.107:5140
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV3" tvg-logo="https://livecdn.zbds.org/logo/CCTV3.png" epg-url="https://epg.zbds.top",CCTV3
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV3" tvg-logo="https://livecdn.zbds.org/logo/CCTV3.png" epg-url="https://epg.zbds.top",CCTV3
  http://111.43.126.240:9003/hls/15/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV4" tvg-logo="https://livecdn.zbds.org/logo/CCTV4.png" epg-url="https://epg.zbds.top",CCTV4
@@ -63,6 +85,24 @@
  http://221.205.204.69:9003/hls/8/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV7" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" epg-url="https://epg.zbds.top",CCTV7
  http://111.43.126.240:9003/hls/20/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV7" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" epg-url="https://epg.zbds.top",CCTV7
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226143/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV7" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" epg-url="https://epg.zbds.top",CCTV7
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225701/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV7" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" epg-url="https://epg.zbds.top",CCTV7
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226137/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV7" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" epg-url="https://epg.zbds.top",CCTV7
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV7" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" epg-url="https://epg.zbds.top",CCTV7
+ http://39.137.75.234/000000001000/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=no
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV7" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" epg-url="https://epg.zbds.top",CCTV7
+ http://58.19.180.108:9981/stream/channelid/499001205?profile=pass
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV7" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" epg-url="https://epg.zbds.top",CCTV7
+ http://sh.lnott.top:880/dx07.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV7" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" epg-url="https://epg.zbds.top",CCTV7
+ http://118.81.139.151:8001/rtp/226.0.2.24:8104
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV7" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" epg-url="https://epg.zbds.top",CCTV7
+ http://58.240.136.150:9003/hls/7/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV8" tvg-logo="https://livecdn.zbds.org/logo/CCTV8.png" epg-url="https://epg.zbds.top",CCTV8
  http://221.205.204.69:9003/hls/9/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV8" tvg-logo="https://livecdn.zbds.org/logo/CCTV8.png" epg-url="https://epg.zbds.top",CCTV8
@@ -72,31 +112,57 @@
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV8" tvg-logo="https://livecdn.zbds.org/logo/CCTV8.png" epg-url="https://epg.zbds.top",CCTV8
  http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV9" tvg-logo="https://livecdn.zbds.org/logo/CCTV9.png" epg-url="https://epg.zbds.top",CCTV9
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV9" tvg-logo="https://livecdn.zbds.org/logo/CCTV9.png" epg-url="https://epg.zbds.top",CCTV9
  http://111.43.126.240:9003/hls/22/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV9" tvg-logo="https://livecdn.zbds.org/logo/CCTV9.png" epg-url="https://epg.zbds.top",CCTV9
+ http://125.118.85.231:4022/udp/233.50.200.23:5140
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV9" tvg-logo="https://livecdn.zbds.org/logo/CCTV9.png" epg-url="https://epg.zbds.top",CCTV9
+ http://39.137.75.234/000000001000/1000000005000265009/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=no
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV9" tvg-logo="https://livecdn.zbds.org/logo/CCTV9.png" epg-url="https://epg.zbds.top",CCTV9
+ http://ygbh.site/php/bfgd.php?id=128
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV9" tvg-logo="https://livecdn.zbds.org/logo/CCTV9.png" epg-url="https://epg.zbds.top",CCTV9
  http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="https://epg.zbds.top",CCTV10
+ http://118.81.139.151:8001/rtp/226.0.2.162:9208
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="https://epg.zbds.top",CCTV10
  http://111.43.126.240:9003/hls/23/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="https://epg.zbds.top",CCTV10
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="https://epg.zbds.top",CCTV10
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226169/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="https://epg.zbds.top",CCTV10
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="https://epg.zbds.top",CCTV10
  http://39.137.75.230/000000001000/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=no
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="https://epg.zbds.top",CCTV10
  http://115.207.213.204:8889/udp/233.50.200.22:5140
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="https://epg.zbds.top",CCTV10
  http://58.19.180.108:9981/stream/channelid/197590532?profile=pass
-#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV11" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" epg-url="https://epg.zbds.top",CCTV11
- http://221.205.204.69:9003/hls/12/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="https://epg.zbds.top",CCTV10
+ http://ygbh.site/php/bfgd.php?id=129
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="https://epg.zbds.top",CCTV10
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225743/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV11" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" epg-url="https://epg.zbds.top",CCTV11
  http://gslbserv.itv.cmvideo.cn/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV11" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" epg-url="https://epg.zbds.top",CCTV11
  http://111.43.126.240:9003/hls/24/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV11" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" epg-url="https://epg.zbds.top",CCTV11
- http://ak6668768.zicp.io:8837/live1066.m3u8
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226101/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV11" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" epg-url="https://epg.zbds.top",CCTV11
+ http://221.205.204.69:9003/hls/12/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV11" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" epg-url="https://epg.zbds.top",CCTV11
  http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV11" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" epg-url="https://epg.zbds.top",CCTV11
+ http://ak6668768.zicp.io:8837/live1066.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV12" tvg-logo="https://livecdn.zbds.org/logo/CCTV12.png" epg-url="https://epg.zbds.top",CCTV12
  http://221.205.204.69:9003/hls/13/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV12" tvg-logo="https://livecdn.zbds.org/logo/CCTV12.png" epg-url="https://epg.zbds.top",CCTV12
  http://111.43.126.240:9003/hls/25/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV12" tvg-logo="https://livecdn.zbds.org/logo/CCTV12.png" epg-url="https://epg.zbds.top",CCTV12
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226126/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV12" tvg-logo="https://livecdn.zbds.org/logo/CCTV12.png" epg-url="https://epg.zbds.top",CCTV12
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226103/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV12" tvg-logo="https://livecdn.zbds.org/logo/CCTV12.png" epg-url="https://epg.zbds.top",CCTV12
  http://39.137.75.234/000000001000/1000000005000265012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=no
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV12" tvg-logo="https://livecdn.zbds.org/logo/CCTV12.png" epg-url="https://epg.zbds.top",CCTV12
@@ -108,13 +174,19 @@
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV13" tvg-logo="https://livecdn.zbds.org/logo/CCTV13.png" epg-url="https://epg.zbds.top",CCTV13
  http://111.43.126.240:9003/hls/26/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV13" tvg-logo="https://livecdn.zbds.org/logo/CCTV13.png" epg-url="https://epg.zbds.top",CCTV13
- http://221.205.207.120:9003/hls/14/index.m3u8
-#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV13" tvg-logo="https://livecdn.zbds.org/logo/CCTV13.png" epg-url="https://epg.zbds.top",CCTV13
  http://ygbh.site/php/bfgd.php?id=067
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV13" tvg-logo="https://livecdn.zbds.org/logo/CCTV13.png" epg-url="https://epg.zbds.top",CCTV13
+ http://171.120.248.199:9003/hls/14/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV13" tvg-logo="https://livecdn.zbds.org/logo/CCTV13.png" epg-url="https://epg.zbds.top",CCTV13
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226128/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV13" tvg-logo="https://livecdn.zbds.org/logo/CCTV13.png" epg-url="https://epg.zbds.top",CCTV13
+ http://118.81.139.151:8001/rtp/226.0.2.165:9232
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV13" tvg-logo="https://livecdn.zbds.org/logo/CCTV13.png" epg-url="https://epg.zbds.top",CCTV13
  http://sh.lnott.top:880/dx13.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV13" tvg-logo="https://livecdn.zbds.org/logo/CCTV13.png" epg-url="https://epg.zbds.top",CCTV13
- http://111.43.126.240:9003/hls/26/index.m3u8
+ http://221.205.207.120:9003/hls/14/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV13" tvg-logo="https://livecdn.zbds.org/logo/CCTV13.png" epg-url="https://epg.zbds.top",CCTV13
+ http://sh.lnott.top:880/dx13.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV14" tvg-logo="https://livecdn.zbds.org/logo/CCTV14.png" epg-url="https://epg.zbds.top",CCTV14
  http://221.205.204.69:9003/hls/15/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV14" tvg-logo="https://livecdn.zbds.org/logo/CCTV14.png" epg-url="https://epg.zbds.top",CCTV14
@@ -126,6 +198,8 @@
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV14" tvg-logo="https://livecdn.zbds.org/logo/CCTV14.png" epg-url="https://epg.zbds.top",CCTV14
  http://sh.lnott.top:880/dx14.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV15" tvg-logo="https://livecdn.zbds.org/logo/CCTV15.png" epg-url="https://epg.zbds.top",CCTV15
+ http://gslbserv.itv.cmvideo.cn/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV15" tvg-logo="https://livecdn.zbds.org/logo/CCTV15.png" epg-url="https://epg.zbds.top",CCTV15
  http://111.43.126.240:9003/hls/28/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV15" tvg-logo="https://livecdn.zbds.org/logo/CCTV15.png" epg-url="https://epg.zbds.top",CCTV15
  http://sh.lnott.top:880/dx15.m3u8
@@ -134,11 +208,29 @@
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" epg-url="https://epg.zbds.top",CCTV16
  http://111.43.126.240:9003/hls/29/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" epg-url="https://epg.zbds.top",CCTV16
+ http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=no
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" epg-url="https://epg.zbds.top",CCTV16
  http://219.139.231.129:8686/rtp/239.69.1.247:11124
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" epg-url="https://epg.zbds.top",CCTV16
+ http://111.43.126.240:9003/hls/29/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" epg-url="https://epg.zbds.top",CCTV16
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" epg-url="https://epg.zbds.top",CCTV16
+ http://125.118.85.231:4022/udp/233.50.200.112:5140
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" epg-url="https://epg.zbds.top",CCTV16
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV17" tvg-logo="https://livecdn.zbds.org/logo/CCTV17.png" epg-url="https://epg.zbds.top",CCTV17
  http://111.43.126.240:9003/hls/30/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV17" tvg-logo="https://livecdn.zbds.org/logo/CCTV17.png" epg-url="https://epg.zbds.top",CCTV17
+ http://ygbh.site/php/bfgd.php?id=204
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV17" tvg-logo="https://livecdn.zbds.org/logo/CCTV17.png" epg-url="https://epg.zbds.top",CCTV17
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV17" tvg-logo="https://livecdn.zbds.org/logo/CCTV17.png" epg-url="https://epg.zbds.top",CCTV17
+ http://60.223.72.207:8002/rtp/226.0.2.207:9568
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV17" tvg-logo="https://livecdn.zbds.org/logo/CCTV17.png" epg-url="https://epg.zbds.top",CCTV17
  http://sh.lnott.top:880/dx17.m3u8
+#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV4K" tvg-logo="https://livecdn.zbds.org/logo/CCTV4K.png" epg-url="https://epg.zbds.top",CCTV4K
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV4K" tvg-logo="https://livecdn.zbds.org/logo/CCTV4K.png" epg-url="https://epg.zbds.top",CCTV4K
  http://121.20.194.81:9999/rtp/239.253.93.134:6631
 #EXTINF:-1 group-title="国内|央视" tvg-name="CGTN" tvg-logo="https://livecdn.zbds.org/logo/CGTN.png" epg-url="https://epg.zbds.top",CGTN
@@ -179,8 +271,6 @@
  http://gslbserv.itv.cmvideo.cn/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV14" tvg-logo="https://livecdn.zbds.org/logo/CCTV14.png" epg-url="https://epg.zbds.top",CCTV14
  http://gslbserv.itv.cmvideo.cn/5000000004000006673/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
-#EXTINF:-1 group-title="国内|央视" tvg-name="CCTV15" tvg-logo="https://livecdn.zbds.org/logo/CCTV15.png" epg-url="https://epg.zbds.top",CCTV15
- http://gslbserv.itv.cmvideo.cn/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV4" tvg-logo="https://livecdn.zbds.org/logo/CCTV4.png" epg-url="https://epg.zbds.top",CCTV4
  http://221.205.204.69:9003/hls/4/index.m3u8
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV5" tvg-logo="https://livecdn.zbds.org/logo/CCTV5.png" epg-url="https://epg.zbds.top",CCTV5
@@ -206,45 +296,93 @@
 #EXTINF:-1 group-title="国内|央视" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" epg-url="https://epg.zbds.top",CCTV16
  http://221.205.204.69:9003/hls/17/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="北京卫视" tvg-logo="https://livecdn.zbds.org/logo/北京卫视.png" epg-url="https://epg.zbds.top",北京卫视
+ http://183.185.111.79:9003/hls/20/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="北京卫视" tvg-logo="https://livecdn.zbds.org/logo/北京卫视.png" epg-url="https://epg.zbds.top",北京卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="北京卫视" tvg-logo="https://livecdn.zbds.org/logo/北京卫视.png" epg-url="https://epg.zbds.top",北京卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="北京卫视" tvg-logo="https://livecdn.zbds.org/logo/北京卫视.png" epg-url="https://epg.zbds.top",北京卫视
  http://221.205.204.69:9003/hls/20/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="北京卫视" tvg-logo="https://livecdn.zbds.org/logo/北京卫视.png" epg-url="https://epg.zbds.top",北京卫视
  http://111.43.126.240:9003/hls/41/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.org/logo/东方卫视.png" epg-url="https://epg.zbds.top",东方卫视
- http://221.205.204.69:9003/hls/23/index.m3u8
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.org/logo/东方卫视.png" epg-url="https://epg.zbds.top",东方卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226050/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.org/logo/东方卫视.png" epg-url="https://epg.zbds.top",东方卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225725/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.org/logo/东方卫视.png" epg-url="https://epg.zbds.top",东方卫视
+ http://111.43.126.240:9003/hls/39/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.org/logo/东方卫视.png" epg-url="https://epg.zbds.top",东方卫视
+ http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.org/logo/东方卫视.png" epg-url="https://epg.zbds.top",东方卫视
  http://gslbserv.itv.cmvideo.cn/5000000004000014098/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
 #EXTINF:-1 group-title="国内|卫视" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.org/logo/东方卫视.png" epg-url="https://epg.zbds.top",东方卫视
- http://116.30.250.107:12345/bst/hddfws@4000000.m3u8
+ http://221.205.204.69:9003/hls/23/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.org/logo/东方卫视.png" epg-url="https://epg.zbds.top",东方卫视
- http://111.43.126.240:9003/hls/39/index.m3u8
+ http://116.30.250.107:12345/bst/hddfws@4000000.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视.png" epg-url="https://epg.zbds.top",江苏卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视.png" epg-url="https://epg.zbds.top",江苏卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225720/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视.png" epg-url="https://epg.zbds.top",江苏卫视
  http://221.205.204.69:9003/hls/35/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视.png" epg-url="https://epg.zbds.top",江苏卫视
  http://111.43.126.240:9003/hls/38/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视.png" epg-url="https://epg.zbds.top",江苏卫视
+ http://sh.lnott.top:880/dx33.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视.png" epg-url="https://epg.zbds.top",江苏卫视
+ http://175.169.247.169:19000/rtp/232.0.0.116:1234
 #EXTINF:-1 group-title="国内|卫视" tvg-name="浙江卫视" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视.png" epg-url="https://epg.zbds.top",浙江卫视
  https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="浙江卫视" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视.png" epg-url="https://epg.zbds.top",浙江卫视
  http://111.43.126.240:9003/hls/40/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="浙江卫视" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视.png" epg-url="https://epg.zbds.top",浙江卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225727/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="浙江卫视" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视.png" epg-url="https://epg.zbds.top",浙江卫视
+ http://118.81.139.151:8001/rtp/226.0.2.144:9064
+#EXTINF:-1 group-title="国内|卫视" tvg-name="浙江卫视" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视.png" epg-url="https://epg.zbds.top",浙江卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="浙江卫视" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视.png" epg-url="https://epg.zbds.top",浙江卫视
  http://221.205.204.69:9003/hls/49/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="浙江卫视" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视.png" epg-url="https://epg.zbds.top",浙江卫视
  http://gslbserv.itv.cmvideo.cn/5000000004000007275/1.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3
 #EXTINF:-1 group-title="国内|卫视" tvg-name="河北卫视" tvg-logo="https://livecdn.zbds.org/logo/河北卫视.png" epg-url="https://epg.zbds.top",河北卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="河北卫视" tvg-logo="https://livecdn.zbds.org/logo/河北卫视.png" epg-url="https://epg.zbds.top",河北卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="河北卫视" tvg-logo="https://livecdn.zbds.org/logo/河北卫视.png" epg-url="https://epg.zbds.top",河北卫视
  http://221.205.204.69:9003/hls/29/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="河北卫视" tvg-logo="https://livecdn.zbds.org/logo/河北卫视.png" epg-url="https://epg.zbds.top",河北卫视
  http://gslbserv.itv.cmvideo.cn/5000000006000040016/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
+#EXTINF:-1 group-title="国内|卫视" tvg-name="河北卫视" tvg-logo="https://livecdn.zbds.org/logo/河北卫视.png" epg-url="https://epg.zbds.top",河北卫视
+ http://111.43.126.240:9003/hls/56/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="河南卫视" tvg-logo="https://livecdn.zbds.org/logo/河南卫视.png" epg-url="https://epg.zbds.top",河南卫视
  http://221.205.204.69:9003/hls/30/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="河南卫视" tvg-logo="https://livecdn.zbds.org/logo/河南卫视.png" epg-url="https://epg.zbds.top",河南卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="河南卫视" tvg-logo="https://livecdn.zbds.org/logo/河南卫视.png" epg-url="https://epg.zbds.top",河南卫视
  http://gslbserv.itv.cmvideo.cn/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
+#EXTINF:-1 group-title="国内|卫视" tvg-name="河南卫视" tvg-logo="https://livecdn.zbds.org/logo/河南卫视.png" epg-url="https://epg.zbds.top",河南卫视
+ http://111.43.126.240:9003/hls/44/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
  http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="国内|卫视" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
+ http://hbhyjq.ufyct.com:1088/hls/39/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
  http://221.205.204.69:9003/hls/41/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
  http://hbhyjq.ufyct.com:1088/hls/39/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
  http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-600/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="国内|卫视" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
+ http://111.43.126.240:9003/hls/48/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="重庆卫视" tvg-logo="https://livecdn.zbds.org/logo/重庆卫视.png" epg-url="https://epg.zbds.top",重庆卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="重庆卫视" tvg-logo="https://livecdn.zbds.org/logo/重庆卫视.png" epg-url="https://epg.zbds.top",重庆卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226171/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="重庆卫视" tvg-logo="https://livecdn.zbds.org/logo/重庆卫视.png" epg-url="https://epg.zbds.top",重庆卫视
  http://hbhyjq.ufyct.com:1088/hls/78/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="重庆卫视" tvg-logo="https://livecdn.zbds.org/logo/重庆卫视.png" epg-url="https://epg.zbds.top",重庆卫视
@@ -253,178 +391,248 @@
  http://ak6668768.zicp.io:8845/live1071.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="重庆卫视" tvg-logo="https://livecdn.zbds.org/logo/重庆卫视.png" epg-url="https://epg.zbds.top",重庆卫视
  http://sh.lnott.top:880/dx46.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视.png" epg-url="https://epg.zbds.top",深圳卫视
- http://221.205.204.69:9003/hls/43/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="四川卫视" tvg-logo="https://livecdn.zbds.org/logo/四川卫视.png" epg-url="https://epg.zbds.top",四川卫视
- http://221.205.204.69:9003/hls/44/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="广东卫视" tvg-logo="https://livecdn.zbds.org/logo/广东卫视.png" epg-url="https://epg.zbds.top",广东卫视
- http://221.205.204.69:9003/hls/26/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="广东卫视" tvg-logo="https://livecdn.zbds.org/logo/广东卫视.png" epg-url="https://epg.zbds.top",广东卫视
- http://111.43.126.240:9003/hls/42/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视.png" epg-url="https://epg.zbds.top",湖南卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视.png" epg-url="https://epg.zbds.top",湖南卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225726/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视.png" epg-url="https://epg.zbds.top",湖南卫视
+ http://39.137.75.234/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=no
 #EXTINF:-1 group-title="国内|卫视" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视.png" epg-url="https://epg.zbds.top",湖南卫视
  http://221.205.204.69:9003/hls/33/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视.png" epg-url="https://epg.zbds.top",湖南卫视
  http://111.43.126.240:9003/hls/37/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视.png" epg-url="https://epg.zbds.top",湖南卫视
+ http://gslbserv.itv.cmvideo.cn/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
+#EXTINF:-1 group-title="国内|卫视" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视.png" epg-url="https://epg.zbds.top",湖南卫视
+ http://sh.lnott.top:880/dx31.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="安徽卫视" tvg-logo="https://livecdn.zbds.org/logo/安徽卫视.png" epg-url="https://epg.zbds.top",安徽卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="安徽卫视" tvg-logo="https://livecdn.zbds.org/logo/安徽卫视.png" epg-url="https://epg.zbds.top",安徽卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225739/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="安徽卫视" tvg-logo="https://livecdn.zbds.org/logo/安徽卫视.png" epg-url="https://epg.zbds.top",安徽卫视
  http://221.205.204.69:9003/hls/21/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="安徽卫视" tvg-logo="https://livecdn.zbds.org/logo/安徽卫视.png" epg-url="https://epg.zbds.top",安徽卫视
  http://111.43.126.240:9003/hls/43/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="安徽卫视" tvg-logo="https://livecdn.zbds.org/logo/安徽卫视.png" epg-url="https://epg.zbds.top",安徽卫视
+ http://gslbserv.itv.cmvideo.cn/1000000001000030159/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3
+#EXTINF:-1 group-title="国内|卫视" tvg-name="四川卫视" tvg-logo="https://livecdn.zbds.org/logo/四川卫视.png" epg-url="https://epg.zbds.top",四川卫视
+ http://111.43.126.240:9003/hls/50/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="四川卫视" tvg-logo="https://livecdn.zbds.org/logo/四川卫视.png" epg-url="https://epg.zbds.top",四川卫视
+ http://39.137.75.234/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=no
+#EXTINF:-1 group-title="国内|卫视" tvg-name="四川卫视" tvg-logo="https://livecdn.zbds.org/logo/四川卫视.png" epg-url="https://epg.zbds.top",四川卫视
+ http://221.205.204.69:9003/hls/44/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="四川卫视" tvg-logo="https://livecdn.zbds.org/logo/四川卫视.png" epg-url="https://epg.zbds.top",四川卫视
+ http://gslbserv.itv.cmvideo.cn/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
+#EXTINF:-1 group-title="国内|卫视" tvg-name="广东卫视" tvg-logo="https://livecdn.zbds.org/logo/广东卫视.png" epg-url="https://epg.zbds.top",广东卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="广东卫视" tvg-logo="https://livecdn.zbds.org/logo/广东卫视.png" epg-url="https://epg.zbds.top",广东卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="广东卫视" tvg-logo="https://livecdn.zbds.org/logo/广东卫视.png" epg-url="https://epg.zbds.top",广东卫视
+ http://221.205.204.69:9003/hls/26/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="广东卫视" tvg-logo="https://livecdn.zbds.org/logo/广东卫视.png" epg-url="https://epg.zbds.top",广东卫视
+ http://111.43.126.240:9003/hls/42/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
  http://221.205.204.69:9003/hls/24/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
+ http://221.205.204.15:9003/hls/24/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
+ http://gslbserv.itv.cmvideo.cn/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
+#EXTINF:-1 group-title="国内|卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
+ http://hbhyjq.ufyct.com:1088/hls/36/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
+ http://111.43.126.240:9003/hls/47/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
+ http://sh.lnott.top:880/dx47.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="黑龙江卫视" tvg-logo="https://livecdn.zbds.org/logo/黑龙江卫视.png" epg-url="https://epg.zbds.top",黑龙江卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="黑龙江卫视" tvg-logo="https://livecdn.zbds.org/logo/黑龙江卫视.png" epg-url="https://epg.zbds.top",黑龙江卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225722/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="黑龙江卫视" tvg-logo="https://livecdn.zbds.org/logo/黑龙江卫视.png" epg-url="https://epg.zbds.top",黑龙江卫视
  http://221.205.204.69:9003/hls/31/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="湖北卫视" tvg-logo="https://livecdn.zbds.org/logo/湖北卫视.png" epg-url="https://epg.zbds.top",湖北卫视
- http://221.205.204.69:9003/hls/32/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="黑龙江卫视" tvg-logo="https://livecdn.zbds.org/logo/黑龙江卫视.png" epg-url="https://epg.zbds.top",黑龙江卫视
+ http://106.87.49.255:8888/rtp/235.254.198.70:1556
+#EXTINF:-1 group-title="国内|卫视" tvg-name="吉林卫视" tvg-logo="https://livecdn.zbds.org/logo/吉林卫视.png" epg-url="https://epg.zbds.top",吉林卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="吉林卫视" tvg-logo="https://livecdn.zbds.org/logo/吉林卫视.png" epg-url="https://epg.zbds.top",吉林卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226082/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="吉林卫视" tvg-logo="https://livecdn.zbds.org/logo/吉林卫视.png" epg-url="https://epg.zbds.top",吉林卫视
+ http://gslbserv.itv.cmvideo.cn/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
+#EXTINF:-1 group-title="国内|卫视" tvg-name="吉林卫视" tvg-logo="https://livecdn.zbds.org/logo/吉林卫视.png" epg-url="https://epg.zbds.top",吉林卫视
+ http://183.191.125.43:9003/hls/34/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="吉林卫视" tvg-logo="https://livecdn.zbds.org/logo/吉林卫视.png" epg-url="https://epg.zbds.top",吉林卫视
+ http://111.43.126.240:9003/hls/45/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="吉林卫视" tvg-logo="https://livecdn.zbds.org/logo/吉林卫视.png" epg-url="https://epg.zbds.top",吉林卫视
  http://221.205.204.69:9003/hls/34/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="江西卫视" tvg-logo="https://livecdn.zbds.org/logo/江西卫视.png" epg-url="https://epg.zbds.top",江西卫视
- http://221.205.204.69:9003/hls/36/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="辽宁卫视" tvg-logo="https://livecdn.zbds.org/logo/辽宁卫视.png" epg-url="https://epg.zbds.top",辽宁卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="辽宁卫视" tvg-logo="https://livecdn.zbds.org/logo/辽宁卫视.png" epg-url="https://epg.zbds.top",辽宁卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225747/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="辽宁卫视" tvg-logo="https://livecdn.zbds.org/logo/辽宁卫视.png" epg-url="https://epg.zbds.top",辽宁卫视
  http://221.205.204.69:9003/hls/37/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="云南卫视" tvg-logo="https://livecdn.zbds.org/logo/云南卫视.png" epg-url="https://epg.zbds.top",云南卫视
- http://221.205.204.69:9003/hls/48/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="辽宁卫视" tvg-logo="https://livecdn.zbds.org/logo/辽宁卫视.png" epg-url="https://epg.zbds.top",辽宁卫视
+ http://gslbserv.itv.cmvideo.cn/5000000004000011671/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
+#EXTINF:-1 group-title="国内|卫视" tvg-name="辽宁卫视" tvg-logo="https://livecdn.zbds.org/logo/辽宁卫视.png" epg-url="https://epg.zbds.top",辽宁卫视
+ http://111.43.126.240:9003/hls/57/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="湖北卫视" tvg-logo="https://livecdn.zbds.org/logo/湖北卫视.png" epg-url="https://epg.zbds.top",湖北卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="湖北卫视" tvg-logo="https://livecdn.zbds.org/logo/湖北卫视.png" epg-url="https://epg.zbds.top",湖北卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="湖北卫视" tvg-logo="https://livecdn.zbds.org/logo/湖北卫视.png" epg-url="https://epg.zbds.top",湖北卫视
+ http://39.137.75.230/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=no
+#EXTINF:-1 group-title="国内|卫视" tvg-name="湖北卫视" tvg-logo="https://livecdn.zbds.org/logo/湖北卫视.png" epg-url="https://epg.zbds.top",湖北卫视
+ http://221.205.204.69:9003/hls/32/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="湖北卫视" tvg-logo="https://livecdn.zbds.org/logo/湖北卫视.png" epg-url="https://epg.zbds.top",湖北卫视
+ http://111.43.126.240:9003/hls/54/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="江西卫视" tvg-logo="https://livecdn.zbds.org/logo/江西卫视.png" epg-url="https://epg.zbds.top",江西卫视
+ http://221.205.204.69:9003/hls/36/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="江西卫视" tvg-logo="https://livecdn.zbds.org/logo/江西卫视.png" epg-url="https://epg.zbds.top",江西卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="江西卫视" tvg-logo="https://livecdn.zbds.org/logo/江西卫视.png" epg-url="https://epg.zbds.top",江西卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225740/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="江西卫视" tvg-logo="https://livecdn.zbds.org/logo/江西卫视.png" epg-url="https://epg.zbds.top",江西卫视
+ http://111.43.126.240:9003/hls/49/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="天津卫视" tvg-logo="https://livecdn.zbds.org/logo/天津卫视.png" epg-url="https://epg.zbds.top",天津卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="天津卫视" tvg-logo="https://livecdn.zbds.org/logo/天津卫视.png" epg-url="https://epg.zbds.top",天津卫视
+ http://111.43.126.240:9003/hls/46/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="天津卫视" tvg-logo="https://livecdn.zbds.org/logo/天津卫视.png" epg-url="https://epg.zbds.top",天津卫视
+ http://gslbserv.itv.cmvideo.cn/5000000004000006827/1.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3
 #EXTINF:-1 group-title="国内|卫视" tvg-name="天津卫视" tvg-logo="https://livecdn.zbds.org/logo/天津卫视.png" epg-url="https://epg.zbds.top",天津卫视
  http://221.205.204.69:9003/hls/45/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="山西卫视" tvg-logo="https://livecdn.zbds.org/logo/山西卫视.png" epg-url="https://epg.zbds.top",山西卫视
- http://221.205.204.69:9003/hls/19/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="天津卫视" tvg-logo="https://livecdn.zbds.org/logo/天津卫视.png" epg-url="https://epg.zbds.top",天津卫视
+ http://hbhyjq.ufyct.com:1088/hls/33/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="海南卫视" tvg-logo="https://livecdn.zbds.org/logo/海南卫视.png" epg-url="https://epg.zbds.top",海南卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="海南卫视" tvg-logo="https://livecdn.zbds.org/logo/海南卫视.png" epg-url="https://epg.zbds.top",海南卫视
  http://gslbserv.itv.cmvideo.cn/5000000004000006211/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
 #EXTINF:-1 group-title="国内|卫视" tvg-name="海南卫视" tvg-logo="https://livecdn.zbds.org/logo/海南卫视.png" epg-url="https://epg.zbds.top",海南卫视
  http://221.205.204.69:9003/hls/28/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视.png" epg-url="https://epg.zbds.top",深圳卫视
- http://gslbserv.itv.cmvideo.cn/5000000004000007410/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=3
-#EXTINF:-1 group-title="国内|卫视" tvg-name="四川卫视" tvg-logo="https://livecdn.zbds.org/logo/四川卫视.png" epg-url="https://epg.zbds.top",四川卫视
- http://gslbserv.itv.cmvideo.cn/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
-#EXTINF:-1 group-title="国内|卫视" tvg-name="天津卫视" tvg-logo="https://livecdn.zbds.org/logo/天津卫视.png" epg-url="https://epg.zbds.top",天津卫视
- http://gslbserv.itv.cmvideo.cn/5000000004000006827/1.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3
+#EXTINF:-1 group-title="国内|卫视" tvg-name="海南卫视" tvg-logo="https://livecdn.zbds.org/logo/海南卫视.png" epg-url="https://epg.zbds.top",海南卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="海南卫视" tvg-logo="https://livecdn.zbds.org/logo/海南卫视.png" epg-url="https://epg.zbds.top",海南卫视
+ http://111.43.126.240:9003/hls/53/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="云南卫视" tvg-logo="https://livecdn.zbds.org/logo/云南卫视.png" epg-url="https://epg.zbds.top",云南卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="云南卫视" tvg-logo="https://livecdn.zbds.org/logo/云南卫视.png" epg-url="https://epg.zbds.top",云南卫视
+ http://221.205.204.69:9003/hls/48/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="云南卫视" tvg-logo="https://livecdn.zbds.org/logo/云南卫视.png" epg-url="https://epg.zbds.top",云南卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226151/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="云南卫视" tvg-logo="https://livecdn.zbds.org/logo/云南卫视.png" epg-url="https://epg.zbds.top",云南卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226109/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="云南卫视" tvg-logo="https://livecdn.zbds.org/logo/云南卫视.png" epg-url="https://epg.zbds.top",云南卫视
+ http://ak6668768.zicp.io:8863/live1084.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="云南卫视" tvg-logo="https://livecdn.zbds.org/logo/云南卫视.png" epg-url="https://epg.zbds.top",云南卫视
+ http://hbhyjq.ufyct.com:1088/hls/41/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="云南卫视" tvg-logo="https://livecdn.zbds.org/logo/云南卫视.png" epg-url="https://epg.zbds.top",云南卫视
  http://gslbserv.itv.cmvideo.cn/5000000011000031120/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
-#EXTINF:-1 group-title="国内|卫视" tvg-name="安徽卫视" tvg-logo="https://livecdn.zbds.org/logo/安徽卫视.png" epg-url="https://epg.zbds.top",安徽卫视
- http://gslbserv.itv.cmvideo.cn/1000000001000030159/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3
-#EXTINF:-1 group-title="国内|卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
- http://gslbserv.itv.cmvideo.cn/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
-#EXTINF:-1 group-title="国内|卫视" tvg-name="广西卫视" tvg-logo="https://livecdn.zbds.org/logo/广西卫视.png" epg-url="https://epg.zbds.top",广西卫视
- http://gslbserv.itv.cmvideo.cn/5000000011000031118/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
-#EXTINF:-1 group-title="国内|卫视" tvg-name="贵州卫视" tvg-logo="https://livecdn.zbds.org/logo/贵州卫视.png" epg-url="https://epg.zbds.top",贵州卫视
- http://gslbserv.itv.cmvideo.cn/5000000004000025843/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
-#EXTINF:-1 group-title="国内|卫视" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视.png" epg-url="https://epg.zbds.top",湖南卫视
- http://gslbserv.itv.cmvideo.cn/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
-#EXTINF:-1 group-title="国内|卫视" tvg-name="吉林卫视" tvg-logo="https://livecdn.zbds.org/logo/吉林卫视.png" epg-url="https://epg.zbds.top",吉林卫视
- http://gslbserv.itv.cmvideo.cn/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
-#EXTINF:-1 group-title="国内|卫视" tvg-name="辽宁卫视" tvg-logo="https://livecdn.zbds.org/logo/辽宁卫视.png" epg-url="https://epg.zbds.top",辽宁卫视
- http://gslbserv.itv.cmvideo.cn/5000000004000011671/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
-#EXTINF:-1 group-title="国内|卫视" tvg-name="宁夏卫视" tvg-logo="https://livecdn.zbds.org/logo/宁夏卫视.png" epg-url="https://epg.zbds.top",宁夏卫视
- http://221.205.204.69:9003/hls/39/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="西藏卫视" tvg-logo="https://livecdn.zbds.org/logo/西藏卫视.png" epg-url="https://epg.zbds.top",西藏卫视
- http://221.205.204.69:9003/hls/46/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="西藏卫视" tvg-logo="https://livecdn.zbds.org/logo/西藏卫视.png" epg-url="https://epg.zbds.top",西藏卫视
- http://111.43.126.240:9003/hls/58/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="新疆卫视" tvg-logo="https://livecdn.zbds.org/logo/新疆卫视.png" epg-url="https://epg.zbds.top",新疆卫视
- http://221.205.204.69:9003/hls/47/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="兵团卫视" tvg-logo="https://livecdn.zbds.org/logo/兵团卫视.png" epg-url="https://epg.zbds.top",兵团卫视
- http://221.205.204.69:9003/hls/50/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="甘肃卫视" tvg-logo="https://livecdn.zbds.org/logo/甘肃卫视.png" epg-url="https://epg.zbds.top",甘肃卫视
- http://221.205.204.69:9003/hls/25/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="甘肃卫视" tvg-logo="https://livecdn.zbds.org/logo/甘肃卫视.png" epg-url="https://epg.zbds.top",甘肃卫视
- http://111.43.126.240:9003/hls/70/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="内蒙古卫视" tvg-logo="https://livecdn.zbds.org/logo/内蒙古卫视.png" epg-url="https://epg.zbds.top",内蒙古卫视
- http://221.205.204.69:9003/hls/38/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="青海卫视" tvg-logo="https://livecdn.zbds.org/logo/青海卫视.png" epg-url="https://epg.zbds.top",青海卫视
- http://221.205.204.69:9003/hls/40/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="青海卫视" tvg-logo="https://livecdn.zbds.org/logo/青海卫视.png" epg-url="https://epg.zbds.top",青海卫视
- http://111.43.126.240:9003/hls/59/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="陕西卫视" tvg-logo="https://livecdn.zbds.org/logo/陕西卫视.png" epg-url="https://epg.zbds.top",陕西卫视
- http://221.205.204.69:9003/hls/42/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="陕西卫视" tvg-logo="https://livecdn.zbds.org/logo/陕西卫视.png" epg-url="https://epg.zbds.top",陕西卫视
- http://111.43.126.240:9003/hls/68/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="西藏卫视" tvg-logo="https://livecdn.zbds.org/logo/西藏卫视.png" epg-url="https://epg.zbds.top",西藏卫视
- http://111.43.126.240:9003/hls/58/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="云南卫视" tvg-logo="https://livecdn.zbds.org/logo/云南卫视.png" epg-url="https://epg.zbds.top",云南卫视
  http://111.43.126.240:9003/hls/60/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="山西卫视" tvg-logo="https://livecdn.zbds.org/logo/山西卫视.png" epg-url="https://epg.zbds.top",山西卫视
- http://111.43.126.240:9003/hls/61/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="广西卫视" tvg-logo="https://livecdn.zbds.org/logo/广西卫视.png" epg-url="https://epg.zbds.top",广西卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="广西卫视" tvg-logo="https://livecdn.zbds.org/logo/广西卫视.png" epg-url="https://epg.zbds.top",广西卫视
+ http://gslbserv.itv.cmvideo.cn/5000000011000031118/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
 #EXTINF:-1 group-title="国内|卫视" tvg-name="广西卫视" tvg-logo="https://livecdn.zbds.org/logo/广西卫视.png" epg-url="https://epg.zbds.top",广西卫视
  http://111.43.126.240:9003/hls/62/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="内蒙古卫视" tvg-logo="https://livecdn.zbds.org/logo/内蒙古卫视.png" epg-url="https://epg.zbds.top",内蒙古卫视
- http://111.43.126.240:9003/hls/63/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="新疆卫视" tvg-logo="https://livecdn.zbds.org/logo/新疆卫视.png" epg-url="https://epg.zbds.top",新疆卫视
- http://111.43.126.240:9003/hls/64/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="延边卫视" tvg-logo="https://livecdn.zbds.org/logo/延边卫视.png" epg-url="https://epg.zbds.top",延边卫视
- http://111.43.126.240:9003/hls/65/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
- http://hbhyjq.ufyct.com:1088/hls/39/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="黑龙江卫视" tvg-logo="https://livecdn.zbds.org/logo/黑龙江卫视.png" epg-url="https://epg.zbds.top",黑龙江卫视
- http://106.87.49.255:8888/rtp/235.254.198.70:1556
-#EXTINF:-1 group-title="国内|卫视" tvg-name="吉林卫视" tvg-logo="https://livecdn.zbds.org/logo/吉林卫视.png" epg-url="https://epg.zbds.top",吉林卫视
- http://183.191.125.43:9003/hls/34/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
- http://hbhyjq.ufyct.com:1088/hls/36/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="天津卫视" tvg-logo="https://livecdn.zbds.org/logo/天津卫视.png" epg-url="https://epg.zbds.top",天津卫视
- http://hbhyjq.ufyct.com:1088/hls/33/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="山西卫视" tvg-logo="https://livecdn.zbds.org/logo/山西卫视.png" epg-url="https://epg.zbds.top",山西卫视
- http://111.43.126.240:9003/hls/61/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="贵州卫视" tvg-logo="https://livecdn.zbds.org/logo/贵州卫视.png" epg-url="https://epg.zbds.top",贵州卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="贵州卫视" tvg-logo="https://livecdn.zbds.org/logo/贵州卫视.png" epg-url="https://epg.zbds.top",贵州卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="贵州卫视" tvg-logo="https://livecdn.zbds.org/logo/贵州卫视.png" epg-url="https://epg.zbds.top",贵州卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="贵州卫视" tvg-logo="https://livecdn.zbds.org/logo/贵州卫视.png" epg-url="https://epg.zbds.top",贵州卫视
+ http://gslbserv.itv.cmvideo.cn/5000000004000025843/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
 #EXTINF:-1 group-title="国内|卫视" tvg-name="贵州卫视" tvg-logo="https://livecdn.zbds.org/logo/贵州卫视.png" epg-url="https://epg.zbds.top",贵州卫视
  http://220.174.36.155:8888/rtp/239.253.64.47:5140
 #EXTINF:-1 group-title="国内|卫视" tvg-name="贵州卫视" tvg-logo="https://livecdn.zbds.org/logo/贵州卫视.png" epg-url="https://epg.zbds.top",贵州卫视
  http://111.43.126.240:9003/hls/52/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="贵州卫视 " tvg-logo="https://livecdn.zbds.org/logo/贵州卫视 .png" epg-url="https://epg.zbds.top",贵州卫视 
  http://112.123.243.37:50085/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="国内|卫视" tvg-name="陕西卫视" tvg-logo="https://livecdn.zbds.org/logo/陕西卫视.png" epg-url="https://epg.zbds.top",陕西卫视
+ http://111.43.126.240:9003/hls/68/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="陕西卫视" tvg-logo="https://livecdn.zbds.org/logo/陕西卫视.png" epg-url="https://epg.zbds.top",陕西卫视
+ http://221.205.204.69:9003/hls/42/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="陕西卫视" tvg-logo="https://livecdn.zbds.org/logo/陕西卫视.png" epg-url="https://epg.zbds.top",陕西卫视
+ http://39.137.75.230/000000001000/1000000002000007495/index.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=no
+#EXTINF:-1 group-title="国内|卫视" tvg-name="山西卫视" tvg-logo="https://livecdn.zbds.org/logo/山西卫视.png" epg-url="https://epg.zbds.top",山西卫视
+ http://221.205.204.69:9003/hls/19/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="山西卫视" tvg-logo="https://livecdn.zbds.org/logo/山西卫视.png" epg-url="https://epg.zbds.top",山西卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="山西卫视" tvg-logo="https://livecdn.zbds.org/logo/山西卫视.png" epg-url="https://epg.zbds.top",山西卫视
+ http://111.43.126.240:9003/hls/61/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="甘肃卫视" tvg-logo="https://livecdn.zbds.org/logo/甘肃卫视.png" epg-url="https://epg.zbds.top",甘肃卫视
+ http://221.205.204.69:9003/hls/25/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="甘肃卫视" tvg-logo="https://livecdn.zbds.org/logo/甘肃卫视.png" epg-url="https://epg.zbds.top",甘肃卫视
+ http://111.43.126.240:9003/hls/70/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="甘肃卫视 " tvg-logo="https://livecdn.zbds.org/logo/甘肃卫视 .png" epg-url="https://epg.zbds.top",甘肃卫视 
  http://39.150.96.141:65535/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="国内|卫视" tvg-name="宁夏卫视" tvg-logo="https://livecdn.zbds.org/logo/宁夏卫视.png" epg-url="https://epg.zbds.top",宁夏卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="宁夏卫视" tvg-logo="https://livecdn.zbds.org/logo/宁夏卫视.png" epg-url="https://epg.zbds.top",宁夏卫视
+ http://221.205.204.69:9003/hls/39/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="宁夏卫视 " tvg-logo="https://livecdn.zbds.org/logo/宁夏卫视 .png" epg-url="https://epg.zbds.top",宁夏卫视 
  http://120.238.94.10:9901/tsfile/live/1076_1.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="西藏卫视" tvg-logo="https://livecdn.zbds.org/logo/西藏卫视.png" epg-url="https://epg.zbds.top",西藏卫视
+ http://111.43.126.240:9003/hls/58/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="西藏卫视" tvg-logo="https://livecdn.zbds.org/logo/西藏卫视.png" epg-url="https://epg.zbds.top",西藏卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="西藏卫视" tvg-logo="https://livecdn.zbds.org/logo/西藏卫视.png" epg-url="https://epg.zbds.top",西藏卫视
+ http://221.205.204.69:9003/hls/46/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="西藏卫视" tvg-logo="https://livecdn.zbds.org/logo/西藏卫视.png" epg-url="https://epg.zbds.top",西藏卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225767/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="新疆卫视" tvg-logo="https://livecdn.zbds.org/logo/新疆卫视.png" epg-url="https://epg.zbds.top",新疆卫视
+ http://111.43.126.240:9003/hls/64/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="新疆卫视" tvg-logo="https://livecdn.zbds.org/logo/新疆卫视.png" epg-url="https://epg.zbds.top",新疆卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="新疆卫视" tvg-logo="https://livecdn.zbds.org/logo/新疆卫视.png" epg-url="https://epg.zbds.top",新疆卫视
+ http://221.205.204.69:9003/hls/47/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="内蒙古卫视" tvg-logo="https://livecdn.zbds.org/logo/内蒙古卫视.png" epg-url="https://epg.zbds.top",内蒙古卫视
+ http://221.205.204.69:9003/hls/38/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="内蒙古卫视" tvg-logo="https://livecdn.zbds.org/logo/内蒙古卫视.png" epg-url="https://epg.zbds.top",内蒙古卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="内蒙古卫视" tvg-logo="https://livecdn.zbds.org/logo/内蒙古卫视.png" epg-url="https://epg.zbds.top",内蒙古卫视
  http://111.43.126.240:9003/hls/63/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="青海卫视" tvg-logo="https://livecdn.zbds.org/logo/青海卫视.png" epg-url="https://epg.zbds.top",青海卫视
+ http://221.205.204.69:9003/hls/40/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="青海卫视" tvg-logo="https://livecdn.zbds.org/logo/青海卫视.png" epg-url="https://epg.zbds.top",青海卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226105/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="青海卫视" tvg-logo="https://livecdn.zbds.org/logo/青海卫视.png" epg-url="https://epg.zbds.top",青海卫视
+ http://111.43.126.240:9003/hls/59/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="青海卫视" tvg-logo="https://livecdn.zbds.org/logo/青海卫视.png" epg-url="https://epg.zbds.top",青海卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="青海卫视" tvg-logo="https://livecdn.zbds.org/logo/青海卫视.png" epg-url="https://epg.zbds.top",青海卫视
+ http://sh.lnott.top:880/dx54.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="兵团卫视" tvg-logo="https://livecdn.zbds.org/logo/兵团卫视.png" epg-url="https://epg.zbds.top",兵团卫视
  http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="兵团卫视" tvg-logo="https://livecdn.zbds.org/logo/兵团卫视.png" epg-url="https://epg.zbds.top",兵团卫视
+ http://221.205.204.69:9003/hls/50/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="兵团卫视" tvg-logo="https://livecdn.zbds.org/logo/兵团卫视.png" epg-url="https://epg.zbds.top",兵团卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226111/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="兵团卫视" tvg-logo="https://livecdn.zbds.org/logo/兵团卫视.png" epg-url="https://epg.zbds.top",兵团卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视.png" epg-url="https://epg.zbds.top",深圳卫视
+ http://gslbserv.itv.cmvideo.cn/5000000004000007410/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=3
+#EXTINF:-1 group-title="国内|卫视" tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视.png" epg-url="https://epg.zbds.top",深圳卫视
+ http://221.205.204.69:9003/hls/43/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视.png" epg-url="https://epg.zbds.top",深圳卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视.png" epg-url="https://epg.zbds.top",深圳卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225728/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视.png" epg-url="https://epg.zbds.top",深圳卫视
+ http://ak6668768.zicp.io:8855/live1080.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="农林卫视" tvg-logo="https://livecdn.zbds.org/logo/农林卫视.png" epg-url="https://epg.zbds.top",农林卫视
+ http://sh.lnott.top:880/dx60.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="海峡卫视" tvg-logo="https://livecdn.zbds.org/logo/海峡卫视.png" epg-url="https://epg.zbds.top",海峡卫视
  http://218.104.239.114:9901/tsfile/live/0150_1.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="海峡卫视" tvg-logo="https://livecdn.zbds.org/logo/海峡卫视.png" epg-url="https://epg.zbds.top",海峡卫视
  http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 #EXTINF:-1 group-title="国内|卫视" tvg-name="海峡卫视" tvg-logo="https://livecdn.zbds.org/logo/海峡卫视.png" epg-url="https://epg.zbds.top",海峡卫视
  http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视.png" epg-url="https://epg.zbds.top",湖南卫视
- http://111.43.126.240:9003/hls/37/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="河南卫视" tvg-logo="https://livecdn.zbds.org/logo/河南卫视.png" epg-url="https://epg.zbds.top",河南卫视
- http://111.43.126.240:9003/hls/44/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="吉林卫视" tvg-logo="https://livecdn.zbds.org/logo/吉林卫视.png" epg-url="https://epg.zbds.top",吉林卫视
- http://111.43.126.240:9003/hls/45/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="天津卫视" tvg-logo="https://livecdn.zbds.org/logo/天津卫视.png" epg-url="https://epg.zbds.top",天津卫视
- http://111.43.126.240:9003/hls/46/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
- http://111.43.126.240:9003/hls/47/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
- http://111.43.126.240:9003/hls/48/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="江西卫视" tvg-logo="https://livecdn.zbds.org/logo/江西卫视.png" epg-url="https://epg.zbds.top",江西卫视
- http://111.43.126.240:9003/hls/49/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="四川卫视" tvg-logo="https://livecdn.zbds.org/logo/四川卫视.png" epg-url="https://epg.zbds.top",四川卫视
- http://111.43.126.240:9003/hls/50/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="贵州卫视" tvg-logo="https://livecdn.zbds.org/logo/贵州卫视.png" epg-url="https://epg.zbds.top",贵州卫视
- http://111.43.126.240:9003/hls/52/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="海南卫视" tvg-logo="https://livecdn.zbds.org/logo/海南卫视.png" epg-url="https://epg.zbds.top",海南卫视
- http://111.43.126.240:9003/hls/53/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="湖北卫视" tvg-logo="https://livecdn.zbds.org/logo/湖北卫视.png" epg-url="https://epg.zbds.top",湖北卫视
- http://111.43.126.240:9003/hls/54/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="重庆卫视" tvg-logo="https://livecdn.zbds.org/logo/重庆卫视.png" epg-url="https://epg.zbds.top",重庆卫视
- http://111.43.126.240:9003/hls/55/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="河北卫视" tvg-logo="https://livecdn.zbds.org/logo/河北卫视.png" epg-url="https://epg.zbds.top",河北卫视
- http://111.43.126.240:9003/hls/56/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="辽宁卫视" tvg-logo="https://livecdn.zbds.org/logo/辽宁卫视.png" epg-url="https://epg.zbds.top",辽宁卫视
- http://111.43.126.240:9003/hls/57/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视.png" epg-url="https://epg.zbds.top",江苏卫视
- http://sh.lnott.top:880/dx33.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视.png" epg-url="https://epg.zbds.top",江苏卫视
- http://175.169.247.169:19000/rtp/232.0.0.116:1234
-#EXTINF:-1 group-title="国内|卫视" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
- http://hbhyjq.ufyct.com:1088/hls/39/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
- http://hbhyjq.ufyct.com:1088/hls/36/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
- http://221.205.204.15:9003/hls/24/index.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="湖南卫视" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视.png" epg-url="https://epg.zbds.top",湖南卫视
- http://sh.lnott.top:880/dx31.m3u8
-#EXTINF:-1 group-title="国内|卫视" tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视.png" epg-url="https://epg.zbds.top",深圳卫视
- http://ak6668768.zicp.io:8855/live1080.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="三沙卫视" tvg-logo="https://livecdn.zbds.org/logo/三沙卫视.png" epg-url="https://epg.zbds.top",三沙卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
+#EXTINF:-1 group-title="国内|卫视" tvg-name="延边卫视" tvg-logo="https://livecdn.zbds.org/logo/延边卫视.png" epg-url="https://epg.zbds.top",延边卫视
+ http://111.43.126.240:9003/hls/65/index.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="香港卫视" tvg-logo="https://livecdn.zbds.org/logo/香港卫视.png" epg-url="https://epg.zbds.top",香港卫视
  http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="香港卫视" tvg-logo="https://livecdn.zbds.org/logo/香港卫视.png" epg-url="https://epg.zbds.top",香港卫视
@@ -478,9 +686,11 @@
 #EXTINF:-1 group-title="港|澳|台" tvg-name="凤凰香港" tvg-logo="https://livecdn.zbds.org/logo/凤凰香港.png" epg-url="https://epg.zbds.top",凤凰香港
  https://stream1.freetv.fun/ada32bf1237524edb183dcdef8285a2da3dd390b3d59be112c09d1a9c38c1077.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|中天新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|中天新闻.png" epg-url="https://epg.zbds.top",CN•tw|中天新闻
+ http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|中天新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|中天新闻.png" epg-url="https://epg.zbds.top",CN•tw|中天新闻
  https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|中天新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|中天新闻.png" epg-url="https://epg.zbds.top",CN•tw|中天新闻
- http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+ https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|中天新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|中天新闻.png" epg-url="https://epg.zbds.top",CN•tw|中天新闻
  https://stream1.freetv.fun/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|中天新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|中天新闻.png" epg-url="https://epg.zbds.top",CN•tw|中天新闻
@@ -492,31 +702,39 @@
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|中天新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|中天新闻.png" epg-url="https://epg.zbds.top",CN•tw|中天新闻
  http://ali.hlspull.yximgs.com/live/tboxpropqqtvvqqqyquuqqfvbscvqdqtwqfsqqsqqqcvuyqemqeqtxw.flv
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|TVBS新聞" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|TVBS新聞.png" epg-url="https://epg.zbds.top",CN•hk|TVBS新聞
- http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
-#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|TVBS HD" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|TVBS HD.png" epg-url="https://epg.zbds.top",CN•hk|TVBS HD
- http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+ https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|TVBS HD" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|TVBS HD.png" epg-url="https://epg.zbds.top",CN•hk|TVBS HD
  https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|中天亚洲" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|中天亚洲.png" epg-url="https://epg.zbds.top",CN•tw|中天亚洲
- http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
-#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|TVBS Asia" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|TVBS Asia.png" epg-url="https://epg.zbds.top",CN•hk|TVBS Asia
- http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|TVBS Asia" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|TVBS Asia.png" epg-url="https://epg.zbds.top",CN•hk|TVBS Asia
  http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|TVBS Asia" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|TVBS Asia.png" epg-url="https://epg.zbds.top",CN•hk|TVBS Asia
+ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|TVBS Asia" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|TVBS Asia.png" epg-url="https://epg.zbds.top",CN•hk|TVBS Asia
  https://stream1.freetv.fun/ce8e01cc845634983919a261db9d656ca889917f942f25ef8739ac2a33a07cdc.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|RTHK32" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|RTHK32.png" epg-url="https://epg.zbds.top",CN•hk|RTHK32
- http://s1.an94tv.cfd/aktv3/rthk32/AKTV.m3u8
+ http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|RTHK32" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|RTHK32.png" epg-url="https://epg.zbds.top",CN•hk|RTHK32
+ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|RTHK32" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|RTHK32.png" epg-url="https://epg.zbds.top",CN•hk|RTHK32
+ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|RTHK31" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|RTHK31.png" epg-url="https://epg.zbds.top",CN•hk|RTHK31
+ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|RTHK31" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|RTHK31.png" epg-url="https://epg.zbds.top",CN•hk|RTHK31
+ http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|Taiwan Plus" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|Taiwan Plus.png" epg-url="https://epg.zbds.top",CN•tw|Taiwan Plus
  https://stream1.freetv.fun/bba4975d014ac372935015f9de9a053bb27a89060c6787a6caca49591a8a7b2e.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|Taiwan Plus" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|Taiwan Plus.png" epg-url="https://epg.zbds.top",CN•tw|Taiwan Plus
  https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="港|澳|台" tvg-name="亚洲卫视" tvg-logo="https://livecdn.zbds.org/logo/亚洲卫视.png" epg-url="https://epg.zbds.top",亚洲卫视
- https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
-#EXTINF:-1 group-title="港|澳|台" tvg-name="亚洲卫视" tvg-logo="https://livecdn.zbds.org/logo/亚洲卫视.png" epg-url="https://epg.zbds.top",亚洲卫视
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|亚洲卫视" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|亚洲卫视.png" epg-url="https://epg.zbds.top",CN•hk|亚洲卫视
  https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|亚洲卫视" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|亚洲卫视.png" epg-url="https://epg.zbds.top",CN•hk|亚洲卫视
+ https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|亚洲卫视" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|亚洲卫视.png" epg-url="https://epg.zbds.top",CN•hk|亚洲卫视
+ https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•mo|莲花卫视" tvg-logo="https://livecdn.zbds.org/logo/CN•mo|莲花卫视.png" epg-url="https://epg.zbds.top",CN•mo|莲花卫视
  http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|三立Live" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|三立Live.png" epg-url="https://epg.zbds.top",CN•tw|三立Live
+ http://s1.an94tv.cfd/zhongtian/live/AKTV.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|无线新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|无线新闻.png" epg-url="https://epg.zbds.top",CN•hk|无线新闻
  http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|无线新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|无线新闻.png" epg-url="https://epg.zbds.top",CN•hk|无线新闻
@@ -526,6 +744,8 @@
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|无线新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|无线新闻.png" epg-url="https://epg.zbds.top",CN•hk|无线新闻
  http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|寰宇新聞" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|寰宇新聞.png" epg-url="https://epg.zbds.top",CN•tw|寰宇新聞
+ http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|寰宇新聞" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|寰宇新聞.png" epg-url="https://epg.zbds.top",CN•tw|寰宇新聞
  https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|民视新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|民视新闻.png" epg-url="https://epg.zbds.top",CN•tw|民视新闻
  http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -533,6 +753,10 @@
  http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|民视新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|民视新闻.png" epg-url="https://epg.zbds.top",CN•tw|民视新闻
  http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|民视新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|民视新闻.png" epg-url="https://epg.zbds.top",CN•tw|民视新闻
+ https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|民视新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|民视新闻.png" epg-url="https://epg.zbds.top",CN•tw|民视新闻
+ https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|民视新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|民视新闻.png" epg-url="https://epg.zbds.top",CN•tw|民视新闻
  https://stream1.freetv.fun/6959fd8e6fea85a671683e657ea500e2e1043c9e3c552469d4a1bd3c528a0f5a.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|民视新闻" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|民视新闻.png" epg-url="https://epg.zbds.top",CN•tw|民视新闻
@@ -558,7 +782,7 @@
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|東森超視" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|東森超視.png" epg-url="https://epg.zbds.top",CN•tw|東森超視
  rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|民视闽南频道" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|民视闽南频道.png" epg-url="https://epg.zbds.top",CN•tw|民视闽南频道
- http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
+ https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|民视闽南频道" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|民视闽南频道.png" epg-url="https://epg.zbds.top",CN•tw|民视闽南频道
  rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|中视闽南频道" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|中视闽南频道.png" epg-url="https://epg.zbds.top",CN•tw|中视闽南频道
@@ -571,10 +795,10 @@
  http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|台视闽南频道" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|台视闽南频道.png" epg-url="https://epg.zbds.top",CN•tw|台视闽南频道
  rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|民视第一" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|民视第一.png" epg-url="https://epg.zbds.top",CN•tw|民视第一
- http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|東森美洲新闻台" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|東森美洲新闻台.png" epg-url="https://epg.zbds.top",CN•tw|東森美洲新闻台
  https://stream1.freetv.fun/d08ea3c0e788d241119fdfe7dadd2d9505a329c9313957a73adcd13de810c593.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|东森美洲卫视" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|东森美洲卫视.png" epg-url="https://epg.zbds.top",CN•tw|东森美洲卫视
+ https://stream1.freetv.fun/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|耀才财经" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|耀才财经.png" epg-url="https://epg.zbds.top",CN•hk|耀才财经
  https://stream1.freetv.fun/9372d5d53589816008f331a4592de1cdf0e5eb37cd47a052d60a74be9041e816.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|明珠台" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|明珠台.png" epg-url="https://epg.zbds.top",CN•hk|明珠台
@@ -585,12 +809,10 @@
  https://stream1.freetv.fun/99f3233e5bc35124a936ce032ec14fdf9c2ad50336346faaa4075affd912ca6e.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|美亚C+" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|美亚C+.png" epg-url="https://epg.zbds.top",CN•hk|美亚C+
  http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|靖天國際台" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|靖天國際台.png" epg-url="https://epg.zbds.top",CN•tw|靖天國際台
- http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
-#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|ViuTV 1" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|ViuTV 1.png" epg-url="https://epg.zbds.top",CN•hk|ViuTV 1
- http://s1.an94tv.cfd/aktv2/viutv1/AKTV.m3u8
-#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|ViuTV 6" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|ViuTV 6.png" epg-url="https://epg.zbds.top",CN•hk|ViuTV 6
- http://s1.an94tv.cfd/aktv2/viu6/AKTV.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|VIUTV1" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|VIUTV1.png" epg-url="https://epg.zbds.top",CN•hk|VIUTV1
+ https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|VIUTV1" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|VIUTV1.png" epg-url="https://epg.zbds.top",CN•hk|VIUTV1
+ http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 group-title="港|澳|台" tvg-name="UK|Channel 5 HD" tvg-logo="https://livecdn.zbds.org/logo/UK|Channel 5 HD.png" epg-url="https://epg.zbds.top",UK|Channel 5 HD
  http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="SGP|Channel 8 HD" tvg-logo="https://livecdn.zbds.org/logo/SGP|Channel 8 HD.png" epg-url="https://epg.zbds.top",SGP|Channel 8 HD
@@ -601,6 +823,8 @@
  http://s1.an94tv.cfd/taiwan/hits/AKTV.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="KR|tvN" tvg-logo="https://livecdn.zbds.org/logo/KR|tvN.png" epg-url="https://epg.zbds.top",KR|tvN
  http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 group-title="港|澳|台" tvg-name="MY|8TV" tvg-logo="https://livecdn.zbds.org/logo/MY|8TV.png" epg-url="https://epg.zbds.top",MY|8TV
+http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="JP|AXN" tvg-logo="https://livecdn.zbds.org/logo/JP|AXN.png" epg-url="https://epg.zbds.top",JP|AXN
  http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="JP|Animax (HK)" tvg-logo="https://livecdn.zbds.org/logo/JP|Animax (HK).png" epg-url="https://epg.zbds.top",JP|Animax (HK)
@@ -610,11 +834,13 @@
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|TVB Plus" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|TVB Plus.png" epg-url="https://epg.zbds.top",CN•hk|TVB Plus
  http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|TVB星河" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|TVB星河.png" epg-url="https://epg.zbds.top",CN•hk|TVB星河
- http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+ http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|TVB星河" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|TVB星河.png" epg-url="https://epg.zbds.top",CN•hk|TVB星河
  http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|千禧经典台" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|千禧经典台.png" epg-url="https://epg.zbds.top",CN•hk|千禧经典台
- http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|TVB星河" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|TVB星河.png" epg-url="https://epg.zbds.top",CN•hk|TVB星河
+ http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|TVB星河" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|TVB星河.png" epg-url="https://epg.zbds.top",CN•hk|TVB星河
+ http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|翡翠一台" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|翡翠一台.png" epg-url="https://epg.zbds.top",CN•hk|翡翠一台
  http://s1.an94tv.cfd/aktv/CH-8/AKTV.m3u8
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|翡翠综合台(北美)" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|翡翠综合台(北美).png" epg-url="https://epg.zbds.top",CN•hk|翡翠综合台(北美)
@@ -630,13 +856,11 @@
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|无线翡翠频道" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|无线翡翠频道.png" epg-url="https://epg.zbds.top",CN•hk|无线翡翠频道
  http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|无线华丽频道" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|无线华丽频道.png" epg-url="https://epg.zbds.top",CN•hk|无线华丽频道
- http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+ http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•hk|无线华丽频道" tvg-logo="https://livecdn.zbds.org/logo/CN•hk|无线华丽频道.png" epg-url="https://epg.zbds.top",CN•hk|无线华丽频道
  http://php.jdshipin.com/smt.php?id=Tvbjade
 #EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|momoTV" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|momoTV.png" epg-url="https://epg.zbds.top",CN•tw|momoTV
  rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 group-title="港|澳|台" tvg-name="CN•tw|龍華日韓台" tvg-logo="https://livecdn.zbds.org/logo/CN•tw|龍華日韓台.png" epg-url="https://epg.zbds.top",CN•tw|龍華日韓台
- http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
 #EXTINF:-1 group-title="国际|新闻" tvg-name="SGP|CNA Asia" tvg-logo="https://livecdn.zbds.org/logo/SGP|CNA Asia.png" epg-url="https://epg.zbds.top",SGP|CNA Asia
  https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="国际|新闻" tvg-name="SGP|CNA Asia" tvg-logo="https://livecdn.zbds.org/logo/SGP|CNA Asia.png" epg-url="https://epg.zbds.top",SGP|CNA Asia
@@ -1009,6 +1233,10 @@
  https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际|综合" tvg-name="Indywood TV" tvg-logo="https://livecdn.zbds.org/logo/Indywood TV.png" epg-url="https://epg.zbds.top",Indywood TV
  https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+#EXTINF:-1 group-title="内外|地方" tvg-name="康巴卫视" tvg-logo="https://livecdn.zbds.org/logo/康巴卫视.png" epg-url="https://epg.zbds.top",康巴卫视
+ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/index.m3u8
+#EXTINF:-1 group-title="内外|地方" tvg-name="山东教育卫视" tvg-logo="https://livecdn.zbds.org/logo/山东教育卫视.png" epg-url="https://epg.zbds.top",山东教育卫视
+ http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sdjiaoyuSD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="内外|地方" tvg-name="第一财经" tvg-logo="https://livecdn.zbds.org/logo/第一财经.png" epg-url="https://epg.zbds.top",第一财经
  http://gslbserv.itv.cmvideo.cn/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 #EXTINF:-1 group-title="内外|地方" tvg-name="东方财经" tvg-logo="https://livecdn.zbds.org/logo/东方财经.png" epg-url="https://epg.zbds.top",东方财经
@@ -1153,6 +1381,8 @@ rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
  http://111.43.126.240:9003/hls/93/index.m3u8
 #EXTINF:-1 group-title="剧场|系列" tvg-name="潮妈辣婆" tvg-logo="https://livecdn.zbds.org/logo/潮妈辣婆.png" epg-url="https://epg.zbds.top",潮妈辣婆
  http://111.43.126.240:9003/hls/94/index.m3u8
+#EXTINF:-1 group-title="剧场|系列" tvg-name="永夜星河" tvg-logo="https://livecdn.zbds.org/logo/永夜星河.png" epg-url="https://epg.zbds.top",永夜星河
+ http://cfss.cc/cdn/hy/23734169.m3u8
 #EXTINF:-1 group-title="剧场|系列" tvg-name="Always Funny Videos" tvg-logo="https://livecdn.zbds.org/logo/Always Funny Videos.png" epg-url="https://epg.zbds.top",Always Funny Videos
  https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="剧场|系列" tvg-name="AMC All Weddings" tvg-logo="https://livecdn.zbds.org/logo/AMC All Weddings.png" epg-url="https://epg.zbds.top",AMC All Weddings
@@ -1441,6 +1671,8 @@ rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
  https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="NBA TV" tvg-logo="https://livecdn.zbds.org/logo/NBA TV.png" epg-url="https://epg.zbds.top",NBA TV
  http://fl5.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="赛事|体育" tvg-name="NBA TV" tvg-logo="https://livecdn.zbds.org/logo/NBA TV.png" epg-url="https://epg.zbds.top",NBA TV
+http://s1.an94tv.cfd/astro/nbatv/AKTV.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="FIFA+" tvg-logo="https://livecdn.zbds.org/logo/FIFA+.png" epg-url="https://epg.zbds.top",FIFA+
  https://jmp2.uk/sam-CABD1200008JG.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="Sky Sports Mix" tvg-logo="https://livecdn.zbds.org/logo/Sky Sports Mix.png" epg-url="https://epg.zbds.top",Sky Sports Mix
@@ -1545,6 +1777,8 @@ rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
  https://wikinew.newkso.ru/wiki/yesnet/mono.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="CTV Speed" tvg-logo="https://livecdn.zbds.org/logo/CTV Speed.png" epg-url="https://epg.zbds.top",CTV Speed
  https://stream1.freetv.fun/6c4ae7c464eb4d67b8f34dda35c0a50cff768813ca6500c548b0d48b24335001.ctv
+#EXTINF:-1 group-title="赛事|体育" tvg-name="unifi Sports 1" tvg-logo="https://livecdn.zbds.org/logo/unifi Sports 1.png" epg-url="https://epg.zbds.top",unifi Sports 1
+http://s1.an94tv.cfd/astro/unifisports1/AKTV.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="Astro Football" tvg-logo="https://livecdn.zbds.org/logo/Astro Football.png" epg-url="https://epg.zbds.top",Astro Football
  http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="Astro Sport UHD" tvg-logo="https://livecdn.zbds.org/logo/Astro Sport UHD.png" epg-url="https://epg.zbds.top",Astro Sport UHD
@@ -3009,6 +3243,8 @@ undefined
  https://vip.ffzy-play7.com/20221112/3607_e49d9e93/index.m3u8
 #EXTINF:-1 group-title="电影|点播" tvg-name="羞羞鬼" tvg-logo="https://livecdn.zbds.org/logo/羞羞鬼.png" epg-url="https://epg.zbds.top",羞羞鬼
  https://vip.ffzy-play7.com/20221112/3366_3a1a794c/index.m3u8
+#EXTINF:-1 group-title="电视|点播" tvg-name="永夜星河" tvg-logo="https://livecdn.zbds.org/logo/永夜星河.png" epg-url="https://epg.zbds.top",永夜星河
+ http://cfss.cc/cdn/hy/23734169.m3u8
 #EXTINF:-1 group-title="电视|点播" tvg-name="尘封十三载第01集" tvg-logo="https://livecdn.zbds.org/logo/尘封十三载第01集.png" epg-url="https://epg.zbds.top",尘封十三载第01集
  https://hd.lz-cdn18.com/20230406/1701_0ba78cf7/index.m3u8
 #EXTINF:-1 group-title="电视|点播" tvg-name="尘封十三载第02集" tvg-logo="https://livecdn.zbds.org/logo/尘封十三载第02集.png" epg-url="https://epg.zbds.top",尘封十三载第02集
@@ -4213,6 +4449,8 @@ undefined
  https://stream1.freetv.fun/0c79680cd9b7d799a7d55067756e25ce085bc3d05828f3fe4d89313f06ca8106.m3u8
 #EXTINF:-1 group-title="国际|非英" tvg-name="Roll" tvg-logo="https://livecdn.zbds.org/logo/Roll.png" epg-url="https://epg.zbds.top",Roll
  https://stream1.freetv.fun/7800a2993b8300f0ec15bb3d01410220078c20af4158662907a7b6648bcb6ca2.m3u8
+#EXTINF:-1 group-title="国内|直播" tvg-name="国际空间站 (NASA)" tvg-logo="https://livecdn.zbds.org/logo/国际空间站 (NASA).png" epg-url="https://epg.zbds.top",国际空间站 (NASA)
+ http://s1.an94tv.cfd/zhongtian/nasa/AKTV.m3u8
 #EXTINF:-1 group-title="国内|直播" tvg-name="沧州南大港湿地" tvg-logo="https://livecdn.zbds.org/logo/沧州南大港湿地.png" epg-url="https://epg.zbds.top",沧州南大港湿地
  https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 #EXTINF:-1 group-title="国内|直播" tvg-name="云南保山板桥镇青龙街" tvg-logo="https://livecdn.zbds.org/logo/云南保山板桥镇青龙街.png" epg-url="https://epg.zbds.top",云南保山板桥镇青龙街
