@@ -1113,11 +1113,18 @@ DAZN体育壹, rtmp://f13h.mine.nu/sat/tv731
 游戏风云, http://gslbserv.itv.cmvideo.cn/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 
 
+FOX Sports, https://jmp2.uk/sam-US2700001QY.m3u8
 MLB Network, https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 MLB Network, http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 MSG, http://fl3.moveonjoy.com/MSG/index.m3u8
+MSG, https://fl3.moveonjoy.com/MSG/index.m3u8
 NBA TV, https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
-NBA TV Canada, http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+NBA TV, http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+NBA TV, http://fl5.moveonjoy.com/NBA_TV/index.m3u8
+NBC Sports, https://jmp2.uk/sam-USBD420002446.m3u8
+NFL Network, https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+NFL RedZone, https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+NHL Network, http://143.244.60.30/NHL_NETWORK/index.m3u8
 ESPN U, https://fl3.moveonjoy.com/ESPN_U/index.m3u8
 ESPN U, http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 ESPNews, https://fl41.moveonjoy.com/ESPN_NEWS/index.m3u8
@@ -1125,12 +1132,9 @@ ACCN, https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 ACCN, http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 Sportsman Channel, http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 SportsNet New York, http://fl3.moveonjoy.com/SNY/index.m3u8
-FOX Sports, https://jmp2.uk/sam-US2700001QY.m3u8
-NBC Sports, https://jmp2.uk/sam-USBD420002446.m3u8
 SportsGrid, https://jmp2.uk/sam-USBA300031OT.m3u8
 BEIN Sports, http://143.244.60.30/BEIN_SPORTS/index.m3u8
 CBS Sports, http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-NBA TV, http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 FIFA+, https://jmp2.uk/sam-CABD1200008JG.m3u8
 Sky Sports Mix, https://x4new.newkso.ru/x4/skymix/mono.m3u8
 Tennis Channel, http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
@@ -1140,20 +1144,11 @@ GTV Sports +, https://g2qd3exjy7an-hls-live.5centscdn.com/gtvsport/ghanaweb.stre
 Lacrosse TV, https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 MAV Select USA, https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
 MAVTV, https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-MSG, https://fl3.moveonjoy.com/MSG/index.m3u8
-NFL Network, https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
-NFL RedZone, https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-NHL Network, http://143.244.60.30/NHL_NETWORK/index.m3u8
 Swerve Sports, https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 YES, https://wikinew.newkso.ru/wiki/yesnet/mono.m3u8
 Fox Sports 2, http://23.237.104.106:8080/USA_FS2/index.m3u8
 AfroSport Nigeria, https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 RuSport, https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-TSN 1, http://fl5.moveonjoy.com/TSN_1/index.m3u8
-TSN 2, http://fl5.moveonjoy.com/TSN_2/index.m3u8
-TSN 3, http://fl5.moveonjoy.com/TSN_3/index.m3u8
-TSN 4, http://fl5.moveonjoy.com/TSN_4/index.m3u8
-TSN 5, http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 
 
