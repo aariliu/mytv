@@ -1753,16 +1753,30 @@ rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
  rtmp://f13h.mine.nu:1935/sat/tv721
 #EXTINF:-1 group-title="赛事|体育" tvg-name="游戏风云" tvg-logo="https://livecdn.zbds.org/logo/游戏风云.png" epg-url="https://epg.zbds.top",游戏风云
  http://gslbserv.itv.cmvideo.cn/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
+#EXTINF:-1 group-title="赛事|体育" tvg-name="FOX Sports" tvg-logo="https://livecdn.zbds.org/logo/FOX Sports.png" epg-url="https://epg.zbds.top",FOX Sports
+ https://jmp2.uk/sam-US2700001QY.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="MLB Network" tvg-logo="https://livecdn.zbds.org/logo/MLB Network.png" epg-url="https://epg.zbds.top",MLB Network
  https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="MLB Network" tvg-logo="https://livecdn.zbds.org/logo/MLB Network.png" epg-url="https://epg.zbds.top",MLB Network
  http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="MSG" tvg-logo="https://livecdn.zbds.org/logo/MSG.png" epg-url="https://epg.zbds.top",MSG
  http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 group-title="赛事|体育" tvg-name="MSG" tvg-logo="https://livecdn.zbds.org/logo/MSG.png" epg-url="https://epg.zbds.top",MSG
+ https://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="NBA TV" tvg-logo="https://livecdn.zbds.org/logo/NBA TV.png" epg-url="https://epg.zbds.top",NBA TV
  https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="NBA TV Canada" tvg-logo="https://livecdn.zbds.org/logo/NBA TV Canada.png" epg-url="https://epg.zbds.top",NBA TV Canada
+#EXTINF:-1 group-title="赛事|体育" tvg-name="NBA TV" tvg-logo="https://livecdn.zbds.org/logo/NBA TV.png" epg-url="https://epg.zbds.top",NBA TV
  http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+#EXTINF:-1 group-title="赛事|体育" tvg-name="NBA TV" tvg-logo="https://livecdn.zbds.org/logo/NBA TV.png" epg-url="https://epg.zbds.top",NBA TV
+ http://fl5.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="赛事|体育" tvg-name="NBC Sports" tvg-logo="https://livecdn.zbds.org/logo/NBC Sports.png" epg-url="https://epg.zbds.top",NBC Sports
+ https://jmp2.uk/sam-USBD420002446.m3u8
+#EXTINF:-1 group-title="赛事|体育" tvg-name="NFL Network" tvg-logo="https://livecdn.zbds.org/logo/NFL Network.png" epg-url="https://epg.zbds.top",NFL Network
+ https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="赛事|体育" tvg-name="NFL RedZone" tvg-logo="https://livecdn.zbds.org/logo/NFL RedZone.png" epg-url="https://epg.zbds.top",NFL RedZone
+ https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 group-title="赛事|体育" tvg-name="NHL Network" tvg-logo="https://livecdn.zbds.org/logo/NHL Network.png" epg-url="https://epg.zbds.top",NHL Network
+ http://143.244.60.30/NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="ESPN U" tvg-logo="https://livecdn.zbds.org/logo/ESPN U.png" epg-url="https://epg.zbds.top",ESPN U
  https://fl3.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="ESPN U" tvg-logo="https://livecdn.zbds.org/logo/ESPN U.png" epg-url="https://epg.zbds.top",ESPN U
@@ -1777,18 +1791,12 @@ rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
  http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="SportsNet New York" tvg-logo="https://livecdn.zbds.org/logo/SportsNet New York.png" epg-url="https://epg.zbds.top",SportsNet New York
  http://fl3.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="FOX Sports" tvg-logo="https://livecdn.zbds.org/logo/FOX Sports.png" epg-url="https://epg.zbds.top",FOX Sports
- https://jmp2.uk/sam-US2700001QY.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="NBC Sports" tvg-logo="https://livecdn.zbds.org/logo/NBC Sports.png" epg-url="https://epg.zbds.top",NBC Sports
- https://jmp2.uk/sam-USBD420002446.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="SportsGrid" tvg-logo="https://livecdn.zbds.org/logo/SportsGrid.png" epg-url="https://epg.zbds.top",SportsGrid
  https://jmp2.uk/sam-USBA300031OT.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="BEIN Sports" tvg-logo="https://livecdn.zbds.org/logo/BEIN Sports.png" epg-url="https://epg.zbds.top",BEIN Sports
  http://143.244.60.30/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="CBS Sports" tvg-logo="https://livecdn.zbds.org/logo/CBS Sports.png" epg-url="https://epg.zbds.top",CBS Sports
  http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="NBA TV" tvg-logo="https://livecdn.zbds.org/logo/NBA TV.png" epg-url="https://epg.zbds.top",NBA TV
- http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="FIFA+" tvg-logo="https://livecdn.zbds.org/logo/FIFA+.png" epg-url="https://epg.zbds.top",FIFA+
  https://jmp2.uk/sam-CABD1200008JG.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="Sky Sports Mix" tvg-logo="https://livecdn.zbds.org/logo/Sky Sports Mix.png" epg-url="https://epg.zbds.top",Sky Sports Mix
@@ -1807,14 +1815,6 @@ rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
  https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="MAVTV" tvg-logo="https://livecdn.zbds.org/logo/MAVTV.png" epg-url="https://epg.zbds.top",MAVTV
  https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="MSG" tvg-logo="https://livecdn.zbds.org/logo/MSG.png" epg-url="https://epg.zbds.top",MSG
- https://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="NFL Network" tvg-logo="https://livecdn.zbds.org/logo/NFL Network.png" epg-url="https://epg.zbds.top",NFL Network
- https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="NFL RedZone" tvg-logo="https://livecdn.zbds.org/logo/NFL RedZone.png" epg-url="https://epg.zbds.top",NFL RedZone
- https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="NHL Network" tvg-logo="https://livecdn.zbds.org/logo/NHL Network.png" epg-url="https://epg.zbds.top",NHL Network
- http://143.244.60.30/NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="Swerve Sports" tvg-logo="https://livecdn.zbds.org/logo/Swerve Sports.png" epg-url="https://epg.zbds.top",Swerve Sports
  https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="YES" tvg-logo="https://livecdn.zbds.org/logo/YES.png" epg-url="https://epg.zbds.top",YES
@@ -1825,16 +1825,6 @@ rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
  https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 #EXTINF:-1 group-title="赛事|体育" tvg-name="RuSport" tvg-logo="https://livecdn.zbds.org/logo/RuSport.png" epg-url="https://epg.zbds.top",RuSport
  https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="TSN 1" tvg-logo="https://livecdn.zbds.org/logo/TSN 1.png" epg-url="https://epg.zbds.top",TSN 1
- http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="TSN 2" tvg-logo="https://livecdn.zbds.org/logo/TSN 2.png" epg-url="https://epg.zbds.top",TSN 2
- http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="TSN 3" tvg-logo="https://livecdn.zbds.org/logo/TSN 3.png" epg-url="https://epg.zbds.top",TSN 3
- http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="TSN 4" tvg-logo="https://livecdn.zbds.org/logo/TSN 4.png" epg-url="https://epg.zbds.top",TSN 4
- http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 group-title="赛事|体育" tvg-name="TSN 5" tvg-logo="https://livecdn.zbds.org/logo/TSN 5.png" epg-url="https://epg.zbds.top",TSN 5
- http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="旅游|户外" tvg-name="乐游" tvg-logo="https://livecdn.zbds.org/logo/乐游.png" epg-url="https://epg.zbds.top",乐游
  http://gslbserv.itv.cmvideo.cn/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 #EXTINF:-1 group-title="旅游|户外" tvg-name="乐游" tvg-logo="https://livecdn.zbds.org/logo/乐游.png" epg-url="https://epg.zbds.top",乐游
