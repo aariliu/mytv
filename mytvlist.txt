@@ -668,7 +668,7 @@ CCTV1, http://221.0.78.26:881/hls/50201/index.m3u8
 
 
 
-国内|港•澳•台,#genre#
+港|澳|台 ,#genre#
 
 
 
@@ -929,7 +929,7 @@ AU|3AW Melbourne•FM, https://3awlive.akamaized.net/hls/live/2032295/3AW/index.
 
 
 
-国内|数字•高清 ,#genre#
+数字|高清 ,#genre#
 
 四川卫视4K, https://5r5tv.71781011.xyz/stream/channelid/1166462495?ticket=049c3c31babded6b916abc5851963815fff9ed0c&profile=pass
 湖南卫视4K, https://5r5tv.71781011.xyz/stream/channelid/139225589?ticket=d39f49737f7da87783ca294ac20d3eb71f79cc16&profile=pass
@@ -953,7 +953,7 @@ AU|3AW Melbourne•FM, https://3awlive.akamaized.net/hls/live/2032295/3AW/index.
 
 
 
-国内|地方•系列 ,#genre#
+地方|系列 ,#genre#
 
 BRTV国际频道, https://5r5tv.71781011.xyz/stream/channelid/1859629219?ticket=d0443074e9b6fe684b345d25f44647eb6f3a70be&profile=pass
 BRTV卡酷少儿, https://5r5tv.71781011.xyz/stream/channelid/1051367919?ticket=b7a02f08787d7de8413159afb524925cc4265b8c&profile=pass
@@ -1043,7 +1043,7 @@ DAZN体育壹, rtmp://f13h.mine.nu/sat/tv731
 
 
 
-国内|地方•其他 ,#genre#
+地方|其他 ,#genre#
 
 苏州4k, https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州社会经济, https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
@@ -1100,7 +1100,7 @@ DAZN体育壹, rtmp://f13h.mine.nu/sat/tv731
 
 
 
-国内|数字•剧场 ,#genre#
+数字|剧场 ,#genre#
 
 武侠剧场, https://5r5tv.71781011.xyz/stream/channelid/274387009?ticket=152316da3c10210775eac272001bf7cbc582e457&profile=pass
 热播剧场, https://5r5tv.71781011.xyz/stream/channelid/1031231033?ticket=ac50d13b3a97ba5c54d1aa25e555830a64271ad0&profile=pass
@@ -1147,7 +1147,7 @@ DAZN体育壹, rtmp://f13h.mine.nu/sat/tv731
 
 
 
-国内|数字•电影 ,#genre#
+数字|电影 ,#genre#
 
 
 CHC影迷电影,  http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
@@ -1204,7 +1204,7 @@ CN•HK|Discovery Kids, https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f
 
 
 
-国际|商业•教育,#genre#
+国际|商教 ,#genre#
 
 30A Investment Pitch, https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 CNBC World, https://fl41.moveonjoy.com/CNBC_World/index.m3u8
@@ -1234,7 +1234,7 @@ ausbiz TV [Not 24/7], https://d9quh89lh7dtw.cloudfront.net/public-output/index.m
 
 
 
-国际|综合,#genre#
+国际|综合 ,#genre#
 
 TV BRICS Africa, https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 US|ABC, http://41.205.93.154/ABC/index.m3u8
@@ -1331,7 +1331,7 @@ Super Radyo DZBB [Not 24/7], https://stream.gmanews.tv/ioslive/livestream/playli
 
 
 
-国际|地方,#genre#
+国际|地方 ,#genre#
 
 
 
@@ -1390,7 +1390,7 @@ US|ABC 30 Fresno and Central Valley News, https://content.uplynk.com/channel/ext
 
 
 
-国际|系列,#genre#
+国际|系列 ,#genre#
 
 
 
@@ -1425,7 +1425,7 @@ XPTV US, https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 
 
 
-国际|剧集,#genre#
+国际|剧集 ,#genre#
 
 Choppertown, https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 
@@ -1551,7 +1551,7 @@ Vice, http://143.244.60.30/VICELAND/index.m3u8
 
 
 
-国际|赛事•体育,#genre#
+国际|赛事 ,#genre#
 
 
 FIFA+, https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -1657,7 +1657,7 @@ RuSport, https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u
 
 
 
-国际|旅游•户外,#genre#
+国际|旅游 ,#genre#
 
 
 乐游, http://gslbserv.itv.cmvideo.cn/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
@@ -1715,7 +1715,7 @@ Spike Outdoors, http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitc
 
 
 
-国际|记录•探索,#genre#
+国际|探索 ,#genre#
 
 
 History, https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
@@ -1755,7 +1755,7 @@ TRT Belgesel, http://185.234.111.229:8000/play/a00f
 
 
 
-国际|儿童,#genre#
+国际|儿童 ,#genre#
 
 
 
@@ -1815,7 +1815,7 @@ Anime Film, https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&
 
 
 
-国际|电影,#genre#
+国际|电影 ,#genre#
 
 24 Hour Free Movies, https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 30A TV Classic Movies, https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
@@ -1860,7 +1860,7 @@ The Archive, https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
 
 
 
-国际|生活•时尚,#genre#
+国际|生活 ,#genre#
 
 
 Channel V, https://stream1.freetv.fun/26d34ae392387d645f7b4e2e618ec871e66760ef0205416f9db0d5cfa95f57df.ctv
@@ -1921,7 +1921,7 @@ Chile Channel, https://v2.tustreaming.cl/chilechannel/index.m3u8
 
 
 
-国际|音乐,#genre#
+国际|音乐 ,#genre#
 
 3ABN Praise Him Music Network, https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 
@@ -1988,7 +1988,7 @@ The Retro Channel, https://5fd5567570c0e.streamlock.net/theretrochannel/stream/p
 
 
 
-电影|点播,#genre#
+电影|点播 ,#genre#
 
 
 无间道, https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
@@ -2342,5 +2342,6 @@ A计划续集, https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 
 
  
+
 
 
